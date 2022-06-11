@@ -5,3 +5,5 @@ https://github.com/Syderi/rsschool-cv.git
 tel
 
 adress
+
+sex

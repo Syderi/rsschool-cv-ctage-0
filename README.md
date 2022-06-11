@@ -7,3 +7,5 @@ tel
 adress
 
 sex
+
+Для чтения

@@ -26,7 +26,7 @@ I like my children. I want be Front-end developer
 ```
 ## Education 
         Federal State Budgetary Educational Institution of Higher Education
-        "Chuvash State University named after I.N. Ulyanov" <br />
+        "Chuvash State University named after I.N. Ulyanov"
         with specialty - engineer
     
         RS School. Курс JS/Frontend 2022

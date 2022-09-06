@@ -1,4 +1,3 @@
-! syderi@yahoo.com
 # Eugeniy Kuzmin
 
 ## Contacts

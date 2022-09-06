@@ -1,1 +1,1 @@
-! syderi@yahoo.com
+# Eugeniy Kuzmin

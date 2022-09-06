@@ -1,13 +1,35 @@
-https://Syderi.github.io/rsschool-cv/cv
+# Eugeniy Kuzmin
 
-https://github.com/Syderi/rsschool-cv.git
+## Contacts
+* **Location:** Russia, Novocheboksarsk
+* **E-mail:** syderi@yahoo.com
+* **Telegram:** https://t.me/syderi
+* **GitHub:** syderi
+* **Discord:** Syderi#5629
 
-https://github.com/Syderi/rsschool-cv/blob/rsschool-cv-html/index.html
+## About me
+I like my children. I want be Front-end developer
 
-tel
+## Skills
+* HTML
+* CSS
+* JavaScript
+* Webpack
+* Git/GitHub 
 
-adress
+## Code example
+```
+     const myFunctionSubAB (a, b) {
+      return a + b
+     }
+     console.log(myFunctionSubAB(55,66))
+```
+## Education 
+        Federal State Budgetary Educational Institution of Higher Education
+        "Chuvash State University named after I.N. Ulyanov"
+        with specialty - engineer
+    
+        RS School. Курс JS/Frontend 2022
 
-sex
-
-Для чтения
+## Language
+English - A2
